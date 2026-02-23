@@ -19,6 +19,6 @@ A simple console-based Java application developed to manage student records usin
 2. Run:
    java StudentManagementSystem
 
-## 👩‍💻 Author
+ Author
 Nandipati Sushmitha
 B.Tech - Computer Science Engineering
